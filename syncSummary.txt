@@ -1,0 +1,33 @@
+VISUAL STUDIO CODE SETTINGS SYNC 
+Version: 2.4.4
+
+Download Summary
+
+--------------------
+GITHUB TOKEN: b7222550375f2bf659559e0296e43d869076c3d8
+GITHUB GIST: c9cab3d8bc84bbf9b443914285200b84
+GITHUB GIST TYPE: Public
+
+--------------------
+
+
+Files Download.
+
+extensions.json
+keybindings.json
+settings.json
+snippets|javascript.json
+vsicons.settings.json
+
+EXTENSIONS REMOVED :
+
+No Extension needs to be removed.
+
+
+EXTENSIONS ADDED :
+
+path-intellisense - Version :1.2.0
+vue-snippets - Version :0.1.0
+vscode-icons - Version :7.2.0
+lodash-snippets - Version :0.8.0
+EditorConfig - Version :0.3.4

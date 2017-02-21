@@ -4,6 +4,6 @@
   { "key": "ctrl+down", "command": "editor.action.moveLinesDownAction", "when": "editorTextFocus && !editorReadonly" },
   { "key": "ctrl+up", "command": "editor.action.moveLinesUpAction", "when": "editorTextFocus && !editorReadonly" },
   { "key": "ctrl+d", "command": "editor.action.copyLinesDownAction", "when": "editorTextFocus && !editorReadonly" },
-  { "key": "ctrl+alt+h", "command": "editor.action.formatDocument", "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly" },
+  { "key": "ctrl+shift+h", "command": "editor.action.formatDocument", "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly" },
   { "key": "alt+f3", "command": "editor.action.changeAll", "when": "editorTextFocus && !editorReadonly" }               
 ]

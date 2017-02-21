@@ -1,0 +1,4 @@
+lodash snippets
+path intellisense
+vscode-icons
+vue2 snippets
